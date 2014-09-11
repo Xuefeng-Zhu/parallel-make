@@ -1,4 +1,7 @@
-/** @file parmake.c */
+/** 
+ * @file parmake.c
+ * Author: Xuefeng Zhu
+*/
 #include <unistd.h>
 #include <getopt.h>
 #include <string.h>
